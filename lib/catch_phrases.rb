@@ -13,9 +13,9 @@ def link
   puts phrase
 end  
 
-def any_phrase(starfox)
+def any_phrase(phrase)
   phrase = "Do A Barrel Roll!"
   puts phrase
 end
 
-any_phrase("starfox")
+any_phrase("phrase")
